@@ -1,4 +1,3 @@
-# wiki
-Guidelines, etc
+# Laravel Philippines Wiki
 
-Link to wiki - https://github.com/Laravel-Philippines/wiki/wiki
+[Community Guidelines](https://github.com/Laravel-Philippines/wiki/wiki/Community-Help-Guidelines)
